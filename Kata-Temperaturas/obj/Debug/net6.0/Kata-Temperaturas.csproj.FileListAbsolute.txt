@@ -1,0 +1,15 @@
+C:\Users\Carepeito\Desktop\Kata-Temperaturas\Kata-Temperaturas\bin\Debug\net6.0\Kata-Temperaturas.exe
+C:\Users\Carepeito\Desktop\Kata-Temperaturas\Kata-Temperaturas\bin\Debug\net6.0\Kata-Temperaturas.deps.json
+C:\Users\Carepeito\Desktop\Kata-Temperaturas\Kata-Temperaturas\bin\Debug\net6.0\Kata-Temperaturas.runtimeconfig.json
+C:\Users\Carepeito\Desktop\Kata-Temperaturas\Kata-Temperaturas\bin\Debug\net6.0\Kata-Temperaturas.dll
+C:\Users\Carepeito\Desktop\Kata-Temperaturas\Kata-Temperaturas\bin\Debug\net6.0\Kata-Temperaturas.pdb
+C:\Users\Carepeito\Desktop\Kata-Temperaturas\Kata-Temperaturas\obj\Debug\net6.0\Kata-Temperaturas.csproj.AssemblyReference.cache
+C:\Users\Carepeito\Desktop\Kata-Temperaturas\Kata-Temperaturas\obj\Debug\net6.0\Kata-Temperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carepeito\Desktop\Kata-Temperaturas\Kata-Temperaturas\obj\Debug\net6.0\Kata-Temperaturas.AssemblyInfoInputs.cache
+C:\Users\Carepeito\Desktop\Kata-Temperaturas\Kata-Temperaturas\obj\Debug\net6.0\Kata-Temperaturas.AssemblyInfo.cs
+C:\Users\Carepeito\Desktop\Kata-Temperaturas\Kata-Temperaturas\obj\Debug\net6.0\Kata-Temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\Carepeito\Desktop\Kata-Temperaturas\Kata-Temperaturas\obj\Debug\net6.0\Kata-Temperaturas.dll
+C:\Users\Carepeito\Desktop\Kata-Temperaturas\Kata-Temperaturas\obj\Debug\net6.0\refint\Kata-Temperaturas.dll
+C:\Users\Carepeito\Desktop\Kata-Temperaturas\Kata-Temperaturas\obj\Debug\net6.0\Kata-Temperaturas.pdb
+C:\Users\Carepeito\Desktop\Kata-Temperaturas\Kata-Temperaturas\obj\Debug\net6.0\Kata-Temperaturas.genruntimeconfig.cache
+C:\Users\Carepeito\Desktop\Kata-Temperaturas\Kata-Temperaturas\obj\Debug\net6.0\ref\Kata-Temperaturas.dll

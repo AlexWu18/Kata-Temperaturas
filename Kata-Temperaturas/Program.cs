@@ -25,12 +25,16 @@ double Fahrenheit = Convert.ToDouble(Console.ReadLine()); //capture values from 
 Console.Write("Introducir el valor de la temperatura en Celcius(C) para Kelvin: "); //ask
 double Kelvin = Convert.ToDouble(Console.ReadLine()); //capture values Celcius to Kelvin
 
-
+Console.WriteLine("");
 double ferTemp = CelciusAFahren(celtemp);
-Console.WriteLine("La conversion de Celcius A Fahrenheit es : " + ferTemp);
+Console.WriteLine("La conversion de Celcius a Fahrenheit es : " + ferTemp); // using the method "CelciusAFahren"
 
+double Celcius = FahrenACelcius(Fahrenheit);
+Console.WriteLine("La conversion de Fahrenheit a Celcius es : " + Celcius);// using the method "FahrenACelcius"
 
-                                                      
+double Kel = CelciusAKelvin(Kelvin);
+Console.WriteLine("La conversion de Celcius a Kelvin es : " + Kel);//using the method "CelciusAKelvin"
+
 
 
 
